@@ -1,7 +1,10 @@
 # Machine Learning with STM32 Products Using STM32Cube.AI Developer Cloud Pilot
 ## Introduction
 ### Business Understanding
-Field Data Technologies is developing environmental monitoring solutions using STM32 microcontroller units (MCUs) and machine learning (ML). Currently ML models are integrated into devices by ... This method is risky because ... STM32Cube.AI Developer Cloud tool is a free online tool provided by STMicroelectronics to embed AI into an MCU, and is a more stable method. The purpose of this project is to pilot integrating an ML model into a STM32 MCU using the STM32Cube.AI Developer Cloud tool. 
+Field Data Technologies is developing environmental monitoring solutions using STM32 microcontroller units (MCUs) and machine learning (ML). Currently ML models are integrated into devices with OpenMV. A model is written in Python, optimized with OpenMV, and compiled from Python to C on the MCU using the ... card. With this method there are some speed and memory concerns, and using the STM32Cube.AI Developer Cloud may be better. The STM32Cube.AI Developer Cloud is a free online tool provided by STMicroelectronics to embed AI into an MCU.
+
+
+The purpose of this project is to pilot integrating an ML model into a STM32 MCU using the STM32Cube.AI Developer Cloud tool. 
 
 ## Technology Understanding
 
