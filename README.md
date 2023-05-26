@@ -20,11 +20,14 @@ TODO
 1. Get all FP-AI-VISION1 models working on discovery kit.
 2. Get transfer learning model working on discovery kit.
 3. Get model optimized with STM32Cube.AI Developer Cloud (is this just a replacement for X-CUBE-AI?) and working on discovery kit.
+
 ACTIVE
 1. Load FP-AI-VISION1 model on discovery kit - start with person detection?
+
 PENDING
 1. Get tripod
 2. Get longer FCC ribbon 
+
 COMPLETED
 1. Connect camera bundle to discovery kit.
 2. Connect discovery kit to computer.
